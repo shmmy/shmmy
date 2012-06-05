@@ -1,0 +1,12 @@
+[submodule "ProgLang1"]
+	path = ProgLang1
+	url = git://github.com/shmmy/ProgLang1.git
+[submodule "OS"]
+	path = OS
+	url = git://github.com/shmmy/OS.git
+[submodule "vlsi"]
+	path = vlsi
+	url = git://github.com/shmmy/vlsi.git
+[submodule "AdvComparch"]
+	path = AdvComparch
+	url = git://github.com/shmmy/AdvComparch.git
