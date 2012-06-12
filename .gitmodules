@@ -10,3 +10,6 @@
 [submodule "AdvComparch"]
 	path = AdvComparch
 	url = git://github.com/shmmy/AdvComparch.git
+[submodule "C-lab-2012"]
+	path = C-lab-2012
+	url = git://github.com/shmmy/C-lab-2012.git
